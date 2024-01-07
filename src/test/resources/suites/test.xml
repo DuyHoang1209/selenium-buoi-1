@@ -3,7 +3,7 @@
 <suite name = "Suite:Run all features">
     <test name = "Runner all Feature">
         <classes>
-            <class name = "testcase.test"/>
+            <class name = "testcase.main"/>
         </classes>
 
     </test>
